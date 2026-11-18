@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/with-ai-banner.png" alt="With_AI 배너">
+  <img src="assets/with-ai-banner-v2.png" alt="With_AI 배너">
 </p>
 
 <h1 align="center">이 공간은 AI를 활용하며 코딩하기 위한 공간!</h1>
